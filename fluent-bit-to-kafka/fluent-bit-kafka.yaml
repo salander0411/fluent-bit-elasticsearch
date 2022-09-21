@@ -30,9 +30,9 @@ spec:
           - containerPort: 2020
         env:
         - name: AWS_ACCESS_KEY_ID
-          value: "AKIAUF3FU5ZPBAAY2KHP"
+          value: "XXX"
         - name: AWS_SECRET_ACCESS_KEY
-          value: "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"
+          value: "XXXXX"
         - name: REGION
           value: "cn-north-1"
         volumeMounts:
